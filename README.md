@@ -1,5 +1,5 @@
 # do-nothing.vim
-
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ## Description
 
 This plugin doesn't do anything.
